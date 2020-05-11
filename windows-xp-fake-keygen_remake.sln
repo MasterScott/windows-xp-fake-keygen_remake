@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "windows-xp-fake-keygen_remake", "windows-xp-fake-keygen_remake\windows-xp-fake-keygen_remake.vbproj", "{ED860928-DD5D-4DBB-84A8-1AA6D3D59776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED860928-DD5D-4DBB-84A8-1AA6D3D59776}.Debug|x86.ActiveCfg = Debug|x86
+		{ED860928-DD5D-4DBB-84A8-1AA6D3D59776}.Debug|x86.Build.0 = Debug|x86
+		{ED860928-DD5D-4DBB-84A8-1AA6D3D59776}.Release|x86.ActiveCfg = Release|x86
+		{ED860928-DD5D-4DBB-84A8-1AA6D3D59776}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
